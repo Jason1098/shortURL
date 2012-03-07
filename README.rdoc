@@ -1,0 +1,15 @@
+
+ShortURL
+
+this is a simple application that i am ceating using a pivotal tracker story pre-defined by Devbootcamp.
+
+I am building this app without using any TDD or BDD on purpose.  I understand that it is not best practice, but the point of this excerside is to creat a simple app that has limited functionality.
+
+I plan on revisiting this application later and eith redeveloping it using TDD, or adding the lacking functionality using TDD.
+
+This app will utilize the gem 'devise' for the useer authentication.  i will also play with the gem 'twitter-bootstrap-rails' but am not sure that I will use the functionality in this version.  it's more of an experiment, for learning purposes.
+
+i will attempt to push to heroku, and hope that i will not have too many dificulties, as i have only pushed a few apps there at this time.
+
+jason
+March 7, 2012
